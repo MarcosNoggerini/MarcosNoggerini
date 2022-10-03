@@ -22,6 +22,6 @@ Sou desenvolvedor backend, amo jogos, e já participei do [BGS DE 2018 E 2019 CO
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosNoggerini&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=MarcosNoggerini&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
