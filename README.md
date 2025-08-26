@@ -9,10 +9,6 @@ Sou um profissional entusiasta e dedicado que iniciou recentemente na área de d
 
 # 💻 Tech Stack:
 ![COBOL](https://img.shields.io/badge/COBOL-%23E34F26.svg?style=plastic&logo=COBOL5&logoColor=white) ![JavaScript](https://img.shields.io/badge/DB2-%23323330.svg?style=plastic&logo=DB2&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/MAINFRAME-%23000000.svg?style=plastic&logo=MAINFRAME&logoColor=white) ![NodeJS](https://img.shields.io/badge/JCL-6DA55F?style=plastic&logo=JCL&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarcosNoggerini&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosNoggerini&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosNoggerini&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
